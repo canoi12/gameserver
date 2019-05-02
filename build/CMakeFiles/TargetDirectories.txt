@@ -1,0 +1,4 @@
+/home/canoi/Documentos/gameserver/build/CMakeFiles/edit_cache.dir
+/home/canoi/Documentos/gameserver/build/CMakeFiles/gameserver.dir
+/home/canoi/Documentos/gameserver/build/CMakeFiles/rebuild_cache.dir
+/home/canoi/Documentos/gameserver/build/CMakeFiles/gameclient.dir

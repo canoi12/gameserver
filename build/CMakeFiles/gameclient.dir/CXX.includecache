@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/canoi/Documentos/gameserver/src/client.cpp
+iostream
+-
+string
+-
+definitions.h
+/home/canoi/Documentos/gameserver/src/definitions.h
+
+/home/canoi/Documentos/gameserver/src/definitions.h
+boost/asio.hpp
+-
+

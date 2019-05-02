@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/gameclient.dir/src/client.cpp.o  -o gameclient -lboost_system -lpthread 
